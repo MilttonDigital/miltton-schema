@@ -1,0 +1,14 @@
+
+{
+    "@type": "WebSite",
+    "@id": "https://miltton.com/#website",
+    "url": "https://miltton.com/",
+    "name": "Miltton",
+    "inLanguage": ["en", "fi", "sv", "ee"],
+    "publisher": { "@id": "https://miltton.com/#org" },
+    "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://miltton.com/?s={search_term_string}",
+        "query-input": "required name=search_term_string"
+    }
+}

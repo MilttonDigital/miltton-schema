@@ -1,0 +1,94 @@
+[
+    {
+        "@type": "Organization",
+        "@id": "https://miltton.com/#office-helsinki",
+        "name": "Miltton — Helsinki",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Haapaniemenkatu 5",
+            "addressLocality": "Helsinki",
+            "postalCode": "00530",
+            "addressCountry": "FI"
+        },
+        "telephone": "+35896818700"
+    },
+    {
+        "@type": "Organization",
+        "@id": "https://miltton.com/#office-sweden",
+        "name": "Miltton — Sweden",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Vasagatan 12",
+            "addressLocality": "Stockholm",
+            "postalCode": "111 56",
+            "addressCountry": "SE"
+        },
+        "telephone": "+46700927203"
+    },
+    {
+        "@type": "Organization",
+        "@id": "https://miltton.com/#office-europe",
+        "name": "Miltton — Europe",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Silversquare Europe, Square de Meeûs 35",
+            "addressLocality": "Brussels",
+            "postalCode": "1000",
+            "addressCountry": "BE"
+        },
+        "telephone": "+3228800619"
+    },
+    {
+        "@type": "Organization",
+        "@id": "https://miltton.com/#office-estonia",
+        "name": "Miltton — Estonia",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Telliskivi 60/2",
+            "addressLocality": "Tallinn",
+            "postalCode": "10412",
+            "addressCountry": "EE"
+        },
+        "telephone": "+37253080719"
+    },
+    {
+        "@type": "Organization",
+        "@id": "https://miltton.com/#office-latvia",
+        "name": "Miltton — Latvia",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Blaumaņa street 38/40",
+            "addressLocality": "Riga",
+            "postalCode": "LV-1011",
+            "addressCountry": "LV"
+        },
+        "telephone": "+37120393183"
+    },
+    {
+        "@type": "Organization",
+        "@id": "https://miltton.com/#office-usa",
+        "name": "Miltton - USA / Nordic West Office Inc",
+        "address": {                
+            "@type": "PostalAddress",
+            "streetAddress": "C/O Orrick, 2100 Pennsylvania Avenue NW, Suite 6025",
+            "addressLocality": "Washington",
+            "addressRegion": "DC",
+            "postalCode": "20037",
+            "addressCountry": "US"
+        },
+        "telephone": "+37120393183"
+    },
+    {
+        "@type": "Organization",
+        "@id": "https://miltton.com/#office-ukraine",
+        "name": "Miltton - Ukraine",
+        "address": {                
+            "@type": "PostalAddress",
+            "streetAddress": "Vozdvizhenska str 22A, office 1",
+            "addressLocality": "Kyiv",
+            "postalCode": "04071",
+            "addressCountry": "UA"
+        },
+        "telephone": "+380504743442"
+    }
+]

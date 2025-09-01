@@ -1,0 +1,11 @@
+
+{
+    "@type": "WebPage",
+    "@id": "https://miltton.com/[path]#webpage",
+    "url": "https://miltton.com/[path]",
+    "name": "Miltton – [Home]",
+    "isPartOf": { "@id": "https://miltton.com/#website" },
+    "about": { "@id": "https://miltton.com/#org" },
+    "inLanguage": "[lang]",
+    "description": "[description]"
+}
