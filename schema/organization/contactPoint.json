@@ -6,13 +6,5 @@
         "telephone": "+358405313076",
         "areaServed": "FI",
         "availableLanguage": ["en","fi","sv","ee"]
-    },
-    {
-        "@type": "ContactPoint",
-        "contactType": "media inquiries",
-        "email": "lotta.backlund@miltton.com",
-        "telephone": "+358405313076",
-        "areaServed": "FI",
-        "availableLanguage": ["en","fi","sv","ee"]
     }
 ]

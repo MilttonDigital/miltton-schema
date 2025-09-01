@@ -10,7 +10,16 @@
             "postalCode": "00530",
             "addressCountry": "FI"
         },
-        "telephone": "+35896818700"
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "name" : "Antti Salomaa",
+                "contactType": "Country lead",
+                "email": "antti.salomaa@miltton.com",
+                "telephone": "+358 405 120 889",
+                "availableLanguage": ["fi","en"]
+            }
+        ]
     },
     {
         "@type": "Organization",
@@ -23,7 +32,16 @@
             "postalCode": "111 56",
             "addressCountry": "SE"
         },
-        "telephone": "+46700927203"
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "name" : "Jesper Brandt",
+                "contactType": "Managing director",
+                "email": "jesper.brandt@miltton.com",
+                "telephone": "+46 700 927 203",
+                "availableLanguage": ["se","en"]
+            }
+        ]
     },
     {
         "@type": "Organization",
@@ -36,7 +54,16 @@
             "postalCode": "1000",
             "addressCountry": "BE"
         },
-        "telephone": "+3228800619"
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "name" : "Laura Kyyrö",
+                "contactType": "Managing director",
+                "email": "laura.kyyro@miltton.com",
+                "telephone": "+467 0915 3379",
+                "availableLanguage": ["fi","en"]
+            }
+        ]
     },
     {
         "@type": "Organization",
@@ -49,7 +76,16 @@
             "postalCode": "10412",
             "addressCountry": "EE"
         },
-        "telephone": "+37253080719"
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "name" : "Annika Arras",
+                "contactType": "CEO, partner",
+                "email": "annika.arras@miltton.com",
+                "telephone": "+372 5276 839",
+                "availableLanguage": ["ee","en"]
+            }
+        ]
     },
     {
         "@type": "Organization",
@@ -62,7 +98,16 @@
             "postalCode": "LV-1011",
             "addressCountry": "LV"
         },
-        "telephone": "+37120393183"
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "name" : "Marta Mackeviča",
+                "contactType": "Managing director, Latvia",
+                "email": "marta.macekevica@miltton.com",
+                "telephone": "+371 203 931 83",
+                "availableLanguage": ["lv","en"]
+            }
+        ]
     },
     {
         "@type": "Organization",
@@ -76,7 +121,16 @@
             "postalCode": "20037",
             "addressCountry": "US"
         },
-        "telephone": "+37120393183"
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "name" : "Kristiina Helenius",
+                "contactType": "Managing director",
+                "email": "kristiina.helenius@miltton.com",
+                "telephone": "+1 202 365 9174",
+                "availableLanguage": ["en","fi"]
+            }
+        ]
     },
     {
         "@type": "Organization",
@@ -89,6 +143,15 @@
             "postalCode": "04071",
             "addressCountry": "UA"
         },
-        "telephone": "+380504743442"
+        "contactPoint": [
+            {
+                "@type": "ContactPoint",
+                "name" : "Tetiana Tregobchuk",
+                "contactType": "Managing director",
+                "email": "tetiana.tregobchuk@miltton.com",
+                "telephone": "+380 504 743 442",
+                "availableLanguage": ["uk","en"]
+            }
+        ]
     }
 ]
