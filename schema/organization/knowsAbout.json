@@ -5,7 +5,7 @@
         "name": "Public relations",
         "sameAs": [
             "https://en.wikipedia.org/wiki/Public_relations", 
-            "https://www.wikidata.org/wiki/Q51993"
+            "https://www.wikidata.org/wiki/Q133080"
         ]
     },
     {
@@ -13,7 +13,7 @@
         "name": "Public affairs",
         "sameAs": [
             "https://en.wikipedia.org/wiki/Public_affairs", 
-            "https://www.wikidata.org/wiki/Q2894757"
+            "https://www.wikidata.org/wiki/Q52676286"
         ]
     },
     {
@@ -21,15 +21,14 @@
         "name": "Crisis communication",
         "sameAs": [
             "https://en.wikipedia.org/wiki/Crisis_communication", 
-            "https://www.wikidata.org/wiki/Q51996"
+            "https://www.wikidata.org/wiki/Q378874"
         ]
     },
     {
         "@type": "Thing",
         "name": "Sustainability consulting",
         "sameAs": [
-            "https://en.wikipedia.org/wiki/Sustainability_consulting", 
-            "https://www.wikidata.org/wiki/Q114348317"
+            "https://en.wikipedia.org/wiki/Sustainability_consultant"
         ]
     },
     {
@@ -37,7 +36,7 @@
         "name": "Brand strategy",
         "sameAs": [
             "https://en.wikipedia.org/wiki/Brand_management", 
-            "https://www.wikidata.org/wiki/Q884433"
+            "https://www.wikidata.org/wiki/Q453181"
         ]
     }
 ]
