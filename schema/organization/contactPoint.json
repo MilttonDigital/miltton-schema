@@ -6,5 +6,25 @@
         "telephone": "+358405313076",
         "areaServed": "FI",
         "availableLanguage": ["en","fi","sv","ee"]
+    },
+    {
+        "@type": "ContactPoint",
+        "@id": "https://miltton.com/#promptready-juha",
+        "name": "Juha Salminen",
+        "contactType": "sales",
+        "email": "juha.salminen@miltton.com",
+        "telephone": "+358 50 337 9536",
+        "availableLanguage": ["en", "fi"],
+        "productSupported": { "@id": "https://https://miltton.com/promptready/#offering" }
+    },
+    {
+        "@type": "ContactPoint",
+        "@id": "https://miltton.com/#promptready-tommi",
+        "name": "Tommi Särkkinen",
+        "contactType": "sales",
+        "email": "tommi.sarkkinen@miltton.com",
+        "telephone": "+358 50 570 4597",
+        "availableLanguage": ["en", "fi"],
+        "productSupported": { "@id": "https://https://miltton.com/promptready/#offering" }
     }
 ]
