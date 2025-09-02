@@ -38,5 +38,131 @@
             "https://en.wikipedia.org/wiki/Brand_management", 
             "https://www.wikidata.org/wiki/Q453181"
         ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Capital markets communications",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Capital_market"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Investor relations",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Investor_relations",
+            "https://www.wikidata.org/wiki/Q745129"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Geopolitics and scenarios",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Geopolitics",
+            "https://www.wikidata.org/wiki/Q159385"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Geopolitics",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Geopolitics",
+            "https://www.wikidata.org/wiki/Q159385"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Scenario planning",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Scenario_planning",
+            "https://www.wikidata.org/wiki/Q1931373"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Corporate communication",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Corporate_communication",
+            "https://www.wikidata.org/wiki/Q1931373"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Internal communications",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Internal_communications",
+            "https://www.wikidata.org/wiki/Q792530"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Leadership development",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Leadership_development",
+            "https://www.wikidata.org/wiki/Q1481075"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Employer branding",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Employer_branding",
+            "https://www.wikidata.org/wiki/Q1339389"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Organization design",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Organizational_architecture",
+            "https://www.wikidata.org/wiki/Q3318170"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Influencer marketing",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Influencer_marketing",
+            "https://www.wikidata.org/wiki/Q6030243"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Advertising",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Advertising",
+            "https://www.wikidata.org/wiki/Q37038"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Business design",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Business_architecture",
+            "https://www.wikidata.org/wiki/Q3643219"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "AI Supported Workflow automation",
+        "sameAs": [
+            "https://www.wikidata.org/wiki/Q5001911"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Web development",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Web_development",
+            "https://www.wikidata.org/wiki/Q386275"
+        ]
+    },
+    {
+        "@type": "Thing",
+        "name": "Search engine optimization",
+        "sameAs": [
+            "https://en.wikipedia.org/wiki/Search_engine_optimization",
+            "https://www.wikidata.org/wiki/Q180711"
+        ]
     }
 ]
