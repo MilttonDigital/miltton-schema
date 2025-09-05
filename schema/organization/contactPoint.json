@@ -15,7 +15,7 @@
         "email": "juha.salminen@miltton.com",
         "telephone": "+358 50 337 9536",
         "availableLanguage": ["en", "fi"],
-        "productSupported": { "@id": "https://https://miltton.com/promptready/#offering" }
+        "productSupported": { "@id": "https://miltton.com/promptready/#offering" }
     },
     {
         "@type": "ContactPoint",
@@ -25,6 +25,6 @@
         "email": "tommi.sarkkinen@miltton.com",
         "telephone": "+358 50 570 4597",
         "availableLanguage": ["en", "fi"],
-        "productSupported": { "@id": "https://https://miltton.com/promptready/#offering" }
+        "productSupported": { "@id": "https://miltton.com/promptready/#offering" }
     }
 ]
