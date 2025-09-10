@@ -2,7 +2,7 @@
 {
     "@type": "Organization",
     "@id": "https://miltton.com/#org",
-    "name": "Miltton Group Oy",
+    "name": "Miltton",
     "legalName": "Miltton Group Oy",
     "url": "https://miltton.com/",
     "logo": logo.json,

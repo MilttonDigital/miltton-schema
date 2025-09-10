@@ -2,7 +2,7 @@
     {
         "@type": "Organization",
         "@id": "https://miltton.com/#office-helsinki",
-        "name": "Miltton — Helsinki",
+        "name": "Miltton — Finland",
         "address": {
             "@type": "PostalAddress",
             "streetAddress": "Haapaniemenkatu 5",
